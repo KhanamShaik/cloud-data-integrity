@@ -12,7 +12,7 @@ plt.plot(x, y, color="red")
 plt.fill(x, y, color="pink", alpha=0.6)
 
 # Add the "SORRY" text to the heart
-plt.text(0, -3, "SORRY", fontsize=24, color="black", fontweight="bold", ha="center")
+plt.text(0, -3, "SORRY SIR JI", fontsize=24, color="black", fontweight="bold", ha="center")
 
 # Adjust plot settings
 plt.axis("off")
